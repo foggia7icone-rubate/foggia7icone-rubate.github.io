@@ -29,7 +29,7 @@ $(document).ready(function () {
       "Scrivi a foggia7icone-rubate@proton.me",
     ],
     typeSpeed: 60,
-    backSpeed: 40,
+    backSpeed: 50,
     loop: true,
     startDelay: 1000,
     showCursor: false,
